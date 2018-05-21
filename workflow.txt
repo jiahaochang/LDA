@@ -1,0 +1,5 @@
+1.preprocess - Normalization 统一数据库字段类型
+2.preprocess - NewsPreProcessByStandord 分词
+3.main - LdaGibbsSampling 训练模型，保存模型的训练结果
+4.main - TopicOptimization 利用topicRankScoreMap过滤垃圾topic
+5.recommender - RecomenderWithTopic__ 推荐系统
